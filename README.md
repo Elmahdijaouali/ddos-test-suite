@@ -3,7 +3,7 @@ A Node.js Express.js application for testing DDoS attacks in controlled environm
 
 Installation
 bash
-git clone https://github.com/your-username/ddos-test-suite.git
+git clone https://github.com/Elmahdijaouali/ddos-test-suite.git
 cd ddos-test-suite
 npm install
 Start the Server
