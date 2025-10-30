@@ -8,9 +8,9 @@ cd ddos-test-suite
 npm install
 Start the Server
 bash
+
 # Development mode
 npm run dev
 
-# Production mode
-npm start
+
 Server will run on http://localhost:3000
